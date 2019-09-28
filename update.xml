@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2016-2019 LLuviaOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          https://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<OTA xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">    
+
+     <!-- LYF -->
+     <manufacturer id="LYF">
+        <mobee01a>
+            <maintainer>Mohd Faraz</maintainer>
+            <devicename>LYF WATER 8</devicename>
+            <filename>LLuviaOS-v3.1-Crystal-mobee01a-NatureMade-20190216</filename>
+            <buildtype>Weekly</buildtype>
+            <download>http://bit.ly/2WBmvNa</download> 
+            <changelog></changelog>
+            <gapps>https://opengapps.org</gapps>
+            <forum></forum>
+        </mobee01a>   
+    </manufacturer>
+
+    <!-- ZUK -->
+     <manufacturer id="ZUK">
+        <ham>
+            <maintainer>Anush Madathumkara(Anush12133)</maintainer>
+            <devicename>ZUK Z1</devicename>
+            <filename>LLuviaOS-v3.1-Crystal-ham-NatureMade-20190216</filename>
+            <buildtype>Weekly</buildtype>
+            <download>http://bit.ly/2WBmvNa</download> 
+            <changelog></changelog>
+            <gapps>https://opengapps.org</gapps>
+            <forum></forum>
+        </ham>   
+    </manufacturer>     
+</OTA>        
